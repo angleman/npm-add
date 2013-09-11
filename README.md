@@ -1,4 +1,5 @@
-# npm-add
+# npm-add [![NPM version](https://badge.fury.io/js/npm-add.png?branch=master)](https://npmjs.org/package/npm-add) [![Build Status](https://travis-ci.org/angleman/npm-add.png?branch=master)](https://travis-ci.org/angleman/npm-add) [![Dependency Status](https://gemnasium.com/angleman/npm-add.png?branch=master)](https://gemnasium.com/angleman/npm-add) [![License](http://badgr.co/use/MIT.png?bg=%234ed50e)](http://opensource.org/licenses/MIT)
+
 A CLI tool for speeding up node.js productivity by instantly adding dependencies to package.json.
 
 recent version: 0.0.1
